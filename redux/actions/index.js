@@ -1,0 +1,4 @@
+export default {
+    USER_CREATE: "USER_CREATE",
+    VALIDATE_USER_INFO: 'VALIDATE_USER_INFO'
+};

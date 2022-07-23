@@ -1,0 +1,26 @@
+.button__primary {
+    background-color: #1fbdcb;
+    border-radius: 5px;
+    border: none;
+    padding: 9px 42px;
+    color:#FFF;
+    font-weight: bold;
+    margin-top: 15px;
+    border: 2px solid #1fbdcb;
+}
+.button__primary_light {
+    background-color: #d1f2f5;
+    border-radius: 5px;
+    border: 2px solid #1fbdcb;
+    padding: 9px 42px;
+    color:#1fbdcb;
+    font-weight: bold;
+    margin-top: 15px;
+
+}
+.button__disable {
+    background-color: #787d7e !important;
+}
+.button__enable {
+    background-color: #1fbdcb !important;
+}
